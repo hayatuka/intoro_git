@@ -2,3 +2,7 @@ gitHub—ûK
 git init
 git add
 git commit
+
+q
+q!
+wq
