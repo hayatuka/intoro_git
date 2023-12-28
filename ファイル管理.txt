@@ -6,3 +6,5 @@ git commit
 q
 q!
 wq
+
+gipush
